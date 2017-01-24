@@ -1,0 +1,7 @@
+The difference between collision avoidance and collision detection as follows:
+
+1. Collision detection is standardized in IEEE 802.3 and Collision avoidance is standardized in IEEE 802.11.
+
+2. Collision detection is used in wired LANs and collision avoidance used in wireless LANs and other types of wireless networks.
+
+3. Collision detection will not take steps to prevent transmission collision until it is taken place while collision avoidance will take actions not to take place any collision since the latter has no means of knowing whether a collision has taken place
